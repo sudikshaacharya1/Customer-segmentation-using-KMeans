@@ -3,7 +3,8 @@
 **Project Overview: Customer Data Segmentation**
 
 **1. Introduction:**
-   As the owner of a supermarket mall, understanding customer behavior and preferences is crucial for effective marketing strategies and personalized customer experiences. Utilizing membership card data, we have access to essential customer information such as Customer ID, age, gender, annual income, and spending score. The spending score is a metric assigned to customers based on predefined parameters reflecting their purchasing behavior. [Dataset]([url](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data))
+   As the owner of a supermarket mall, understanding customer behavior and preferences is crucial for effective marketing strategies and personalized customer experiences. Utilizing membership card data, we have access to essential customer information such as Customer ID, age, gender, annual income, and spending score. The spending score is a metric assigned to customers based on predefined parameters reflecting their purchasing behavior. 
+ Dataset : https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data
 
 **2. Preprocessing:**
    - Initial data inspection reveals no missing values, enabling us to proceed with segmentation.
